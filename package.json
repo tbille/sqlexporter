@@ -1,0 +1,22 @@
+{
+  "name": "sqlexp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mariadb": "^3.0.2",
+    "mysql2": "^2.3.3",
+    "oracledb": "^5.5.0",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "pocketbase": "^0.8.3",
+    "sequelize": "^6.26.0",
+    "sqlite3": "^5.1.2",
+    "tedious": "^15.1.2"
+  }
+}
